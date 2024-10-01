@@ -9,7 +9,7 @@ smallBtn.addEventListener('click', () => {
     image.style.width = '150px';
     image.style.height = '150px';
 });
-
+/* cambios de repositorio */
 mediumBtn.addEventListener('click', () => {
     image.style.width = '300px';
     image.style.height = '300px';
